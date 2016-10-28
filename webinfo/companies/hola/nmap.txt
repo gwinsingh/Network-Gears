@@ -1,0 +1,13 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-10-24 22:42 IST
+Nmap scan report for youtube.com (216.58.220.206)
+Host is up (0.0041s latency).
+rDNS record for 216.58.220.206: del01s08-in-f14.1e100.net
+Not shown: 96 filtered ports
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+80/tcp  open   http
+443/tcp open   https
+465/tcp closed smtps
+
+Nmap done: 1 IP address (1 host up) scanned in 1.65 seconds
